@@ -1,1 +1,2 @@
-select * from X;
+select * from X
+where x > 8;
